@@ -6,7 +6,7 @@ applications:
 - name: business-intelligencenck
   command: npm start
   path: .
-  memory: 512M
+  memory: 612M
   services:
   - tone-analyzer-service
   env:
